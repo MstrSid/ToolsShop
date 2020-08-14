@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-//TODO сделать разделы для перфораторов и болгарок по промеру дрелей
+//TODO сделать разделы для перфораторов и болгарок по примеру дрелей
 
 public class ToolsActivity extends AppCompatActivity {
 
